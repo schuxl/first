@@ -1,1 +1,2 @@
 Das ist der Inhalt meines bubu.txt Files.
+Das ist der Zusatz.
